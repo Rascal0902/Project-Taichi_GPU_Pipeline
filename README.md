@@ -13,7 +13,7 @@ Lighting Clothes in VTON Project
 
 ## Camera (Moving update)
 
-# camera.position(cam_posx, cam_posy, cam_posz)
+camera.position(cam_posx, cam_posy, cam_posz) -> comment
 
 camera.track_user_inputs(window, movement_speed=0.1, hold_key=None)
 
