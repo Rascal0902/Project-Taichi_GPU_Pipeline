@@ -11,17 +11,9 @@ Lighting Clothes in VTON Project
     <br>
 </p>
 
-## Camera (Moving update)
+## Multi view Camera (Moving update)
 
 camera.position(cam_posx, cam_posy, cam_posz) -> comment
-
-camera.track_user_inputs(window, movement_speed=0.1, hold_key=None)
-
-camera.lookat(0.0, 0.0, 0.0)
-
-scene.set_camera(camera)
-
-cam_posx, cam_posy, cam_posz = camera.curr_position[0], camera.curr_position[1], camera.curr_position[2]
 
 ## News 
 *2024/10/26 branch has made*
